@@ -399,3 +399,8 @@ This is exactly how DevOps engineers:
 * Install CI/CD tools
 * Configure networking
 * Manage infrastructure
+
+ALL IMP to know what actually AWS allocate us when we create our ACC in AWS
+
+
+![alt text](image-3.png)
